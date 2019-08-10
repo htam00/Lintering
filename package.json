@@ -10,5 +10,8 @@
     "eslint"
   ],
   "author": "Matheus Luna",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.1.0"
+  }
 }
