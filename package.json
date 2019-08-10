@@ -1,6 +1,12 @@
 {
   "name": "lintering",
   "version": "1.0.0",
+  "eslintConfig": {
+    "env":{
+      "browser": true,
+      "node": true
+    }
+  },
   "description": "aprendendo ESLinter",
   "main": "index.js",
   "scripts": {
